@@ -2,14 +2,14 @@
 <h1 align="center">:file_cabinet: # Landing- Page</h1>
 
 ## :memo: Descrição
-Estudo de HTML e CSS3, com base no vídeo de landing page da Rafa Ballerini
+Estudo de HTML e CSS3 responsivo, com base no vídeo de landing page da Rafa Ballerini
 
 ## :wrench: Tecnologias utilizadas
 * HTML;
 * CSS3.
 
-## :rocket: Veja meu projeto clicando aqui:
-...
+## :rocket: Veja um pouquinho do projeto aqui:
+![image](https://user-images.githubusercontent.com/89136471/148496530-bd22d91f-fbbb-4af3-a027-ee9733ac668c.png)
 
 ## :handshake: Colaboradores
 <table>
